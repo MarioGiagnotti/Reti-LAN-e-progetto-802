@@ -7,6 +7,7 @@ Il file PDF incluso riassume concetti ed esempi pratici, utili per lo studio e i
 ## Contenuto
 
 - Funzionamento dello switch
+- File .pkt
 
 
 ## Autore
